@@ -1,7 +1,7 @@
 
 ## 👩‍💻 ¡Hola! Soy Jazmin Sanchez.
 
-Me apasiona el análisis de datos y aprovechar los datos para impulsar la toma de decisiones, optimizar procesos y mejorar la eficiencia. Estoy particularmente interesada en explorar cómo se pueden utilizar los datos en el **sector alimentario** para promover la sostenibilidad y contribuir a iniciativas de impacto social.
+Me apasiona el análisis de datos y aprovechar los datos para impulsar la toma de decisiones, optimizar procesos y mejorar la eficiencia. Estoy particularmente interesada en explorar cómo se pueden utilizar los datos en el **sector alimentario**🌱 para promover la sostenibilidad y contribuir a iniciativas de impacto social.
 
 ## 💁 Intereses
 
@@ -10,14 +10,14 @@ Me apasiona el análisis de datos y aprovechar los datos para impulsar la toma d
 -   Optimización de procesos
 -   Mejora de la eficiencia
 
-## 🚀 Qué estoy aprendiendo
+## 🕵️‍♀️ Qué estoy aprendiendo
 
 Actualmente estoy ampliando mis conocimientos en:
 
 -   Técnicas avanzadas de análisis de datos
 -   Aprendizaje automático
 
-## 🌱 Colaboración
+## 👩‍🌾 Colaboración
 
 Estoy abierta a colaborar en proyectos relacionados con:
 
