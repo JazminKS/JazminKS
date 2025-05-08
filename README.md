@@ -27,15 +27,6 @@ Estoy abierta a colaborar en proyectos relacionados con:
 
 Estoy ansiosa por aplicar mis habilidades para resolver problemas del mundo real y contribuir a proyectos significativos.
 
-## 🔗 Conéctate conmigo
-
--   [LinkedIn](www.linkedin.com/in/jazmin-sanchez-ba2754114)
--   [Tableau Public](https://public.tableau.com/app/profile/jazm.sanchez6559/vizzes)
-
-## 🤸‍♀️ Dato curioso
-
-¡También disfruto del patinaje en línea estilo libre!
-
 <!---
 JazminKS/JazminKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
